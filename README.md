@@ -19,7 +19,7 @@ Student Submission Table
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Techit Aungkachot | Team 04 | Ux/Ui | [https://github.com/wataroz/-Team-04-sprint3](https://github.com/wataroz/-Team-04-sprint3/tree/feature/flask-react/ux_ui) | - |
+| Peerapat Chotmanee | Team 04 | PM/Logic_ai | https://github.com/wataroz/-Team-04-sprint3/tree/feature/flask-react/logic_ai | - |
 
 ---
 
